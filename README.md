@@ -16,7 +16,7 @@ businesses use AI to run leaner.
 | Project | What it is |
 |---|---|
 | [keypop](https://github.com/dylanpulver/keypop) | Stop pasting API keys into AI agents — a native dialog collects secrets your agent never sees |
-| [crm-master](https://github.com/dylanpulver/crm-master) | A behavioral relationship engine — a personal CRM that does the discipline for you |
+| [prompt-creole](https://github.com/dylanpulver/prompt-creole) | A grammar for the language forming between humans and LLMs — documented from field evidence |
 | [prior-art](https://github.com/dylanpulver/prior-art) | Claude Code skill: scan the OSS/research landscape for projects doing what your repo does |
 
 I encode business processes into reusable AI skills — anything you'd train an employee
