@@ -19,6 +19,7 @@ businesses use AI to run leaner.
 | [crm-master](https://github.com/dylanpulver/crm-master) | A behavioral relationship engine — a personal CRM that does the discipline for you |
 | [prompt-creole](https://github.com/dylanpulver/prompt-creole) | A grammar for the language forming between humans and LLMs — documented from field evidence |
 | [prior-art](https://github.com/dylanpulver/prior-art) | Claude Code skill: scan the OSS/research landscape for projects doing what your repo does |
+| [agent-ops](https://github.com/dylanpulver/agent-ops) | How to run Claude Code as a team of agents — session board, handoffs, state ledgers, overnight queue |
 | [claude-skills](https://github.com/dylanpulver/claude-skills) | 20 battle-tested Claude Code skills in 5 installable plugins — the ones I run every day |
 | [supabase-keepalive](https://github.com/dylanpulver/supabase-keepalive) | Keep free-tier Supabase projects from pausing — one GitHub Action, unlimited projects |
 
