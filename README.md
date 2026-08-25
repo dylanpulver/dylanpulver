@@ -32,6 +32,28 @@ businesses use AI to run leaner.
 I encode business processes into reusable AI skills — anything you'd train an employee
 to do can now be done your specific way, every time.
 
+## Open source I've contributed to
+
+Merged fixes in tools other people depend on, including
+[github/github-mcp-server](https://github.com/github/github-mcp-server/pull/3119),
+[react-hook-form](https://github.com/react-hook-form/react-hook-form/pull/13678),
+[tox](https://github.com/tox-dev/tox/pull/4041),
+[pnpm](https://github.com/pnpm/pnpm/pull/14019),
+[testify](https://github.com/stretchr/testify/pull/1938),
+[zarr-python](https://github.com/zarr-developers/zarr-python/pull/4279),
+[anndata](https://github.com/scverse/anndata/pull/2613),
+[commitlint](https://github.com/conventional-changelog/commitlint/pulls?q=is%3Apr+author%3Adylanpulver+is%3Amerged),
+[pipecat](https://github.com/pipecat-ai/pipecat/pull/5392),
+[watchexec](https://github.com/watchexec/watchexec/pull/1085),
+[skrub](https://github.com/skrub-data/skrub/pull/2250) and
+[TruLens](https://github.com/truera/trulens/pull/2710).
+
+Most started from reading source rather than an issue tracker: a formatter that silently
+commented out your SQL, a lock workflow that had failed 1,650 consecutive runs, a column
+order that changed between runs because it came from a `set`. The
+[v3.11.0 release notes](https://github.com/OthmanAdi/planning-with-files/releases/tag/v3.11.0)
+of planning-with-files describe how I work better than I can.
+
 ## Find me
 
 - 🌐 [dylanryanpulver.com](https://dylanryanpulver.com)
