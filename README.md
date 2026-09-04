@@ -1,7 +1,9 @@
 # Hey, I'm Dylan 👋
 
-**Canadian-American software entrepreneur and AI engineer** based in Toronto. I help
-businesses use AI to run leaner.
+**Software engineer and entrepreneur in Toronto.** I build the entire platform. Every layer,
+one pair of hands: the schema, the money movement, the security policies, the apps, the
+deploys. Three platforms are in production that way. The engineering decisions behind them
+are written out at [dylanpulver.com](https://dylanpulver.com).
 
 - 🔭 Current focus: **agentic AI systems** — AI that takes actions and completes work,
   not just answers questions
@@ -56,5 +58,5 @@ of planning-with-files describe how I work better than I can.
 
 ## Find me
 
-- 🌐 [dylanryanpulver.com](https://dylanryanpulver.com)
+- 🌐 [dylanpulver.com](https://dylanpulver.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dylanryanpulver)
