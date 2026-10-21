@@ -1,7 +1,7 @@
 # Hey, I'm Dylan 👋
 
 **Software engineer and entrepreneur in Toronto.** I build the entire platform. Every layer,
-one pair of hands: the schema, the money movement, the security policies, the apps, the
+one owner: the schema, the money movement, the security policies, the apps, the
 deploys. Three platforms are in production that way. The engineering decisions behind them
 are written out at [dylanpulver.com](https://dylanpulver.com).
 
