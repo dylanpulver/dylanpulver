@@ -17,6 +17,7 @@ are written out at [dylanpulver.com](https://dylanpulver.com).
 
 | Project | What it is |
 |---|---|
+| [dead-tests](https://github.com/dylanpulver/dead-tests) | Find tests that look like coverage but can never fail or never run. 21 scanners across 8 languages, behind most of my merged upstream fixes |
 | [keypop](https://github.com/dylanpulver/keypop) | Stop pasting API keys into AI agents — a native dialog collects secrets your agent never sees |
 | [session-deck](https://github.com/dylanpulver/session-deck) | Mission control for parallel Claude Code sessions — your agents, on one screen |
 | [judge-check](https://github.com/dylanpulver/judge-check) | Is your LLM judge discriminating or just nodding? Decoy-gated calibration for AI evals |
@@ -50,7 +51,7 @@ Merged fixes in tools other people depend on, including
 [skrub](https://github.com/skrub-data/skrub/pull/2250) and
 [TruLens](https://github.com/truera/trulens/pull/2710).
 
-Most started from reading source rather than an issue tracker: a formatter that silently
+Most started from reading source rather than an issue tracker, and the scanners are public in [dead-tests](https://github.com/dylanpulver/dead-tests): a formatter that silently
 commented out your SQL, a lock workflow that had failed 1,650 consecutive runs, a column
 order that changed between runs because it came from a `set`. The
 [v3.11.0 release notes](https://github.com/OthmanAdi/planning-with-files/releases/tag/v3.11.0)
