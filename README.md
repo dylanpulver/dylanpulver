@@ -1,15 +1,14 @@
 # Hey, I'm Dylan 👋
 
-**Software engineer and entrepreneur in Toronto.** I build the entire platform. Every layer,
-one owner: the schema, the money movement, the security policies, the apps, the
-deploys. Three platforms are in production that way. The engineering decisions behind them
-are written out at [dylanpulver.com](https://dylanpulver.com).
+**Software engineer in Toronto.** I build platforms end to end: the schema, the money
+movement, the security policies, the apps, the deploys. The engineering decisions behind
+that work are written out at [dylanpulver.com](https://dylanpulver.com).
 
 - 🔭 Current focus: **agentic AI systems** — AI that takes actions and completes work,
   not just answers questions
 - 🏗 A decade of fintech and automation platforms: crypto-exchange infrastructure,
   payments & KYC, RPA-driven bookkeeping automation, edge AI inference
-- 💳 Co-founder of **GoldVault**, a B2B payments platform
+- 💳 Payments infrastructure: ledgers, risk screening, processor integration
 - 🎓 Applied Mathematics @ Johns Hopkins · Master's in Mathematical Finance @ University of Toronto
 - 🎸 Also a musician and producer — the Dylan Pulver on Spotify and Apple Music is me
 
