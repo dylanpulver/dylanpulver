@@ -16,7 +16,7 @@ that work are written out at [dylanpulver.com](https://dylanpulver.com).
 
 | Project | What it is |
 |---|---|
-| [dead-tests](https://github.com/dylanpulver/dead-tests) | Find tests that look like coverage but can never fail or never run. 21 scanners across 8 languages, behind most of my merged upstream fixes |
+| [dead-tests](https://github.com/dylanpulver/dead-tests) | Find tests that look like coverage but can never fail or never run. 22 scanners across 9 languages, behind most of my merged upstream fixes |
 | [keypop](https://github.com/dylanpulver/keypop) | Stop pasting API keys into AI agents — a native dialog collects secrets your agent never sees |
 | [session-deck](https://github.com/dylanpulver/session-deck) | Mission control for parallel Claude Code sessions — your agents, on one screen |
 | [judge-check](https://github.com/dylanpulver/judge-check) | Is your LLM judge discriminating or just nodding? Decoy-gated calibration for AI evals |
