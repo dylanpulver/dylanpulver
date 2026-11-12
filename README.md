@@ -1,6 +1,6 @@
 # Hey, I'm Dylan 👋
 
-**Software engineer in Toronto.** I build platforms end to end: the schema, the money
+**Software engineer and entrepreneur in Toronto.** I build platforms end to end: the schema, the money
 movement, the security policies, the apps, the deploys. The engineering decisions behind
 that work are written out at [dylanpulver.com](https://dylanpulver.com).
 
